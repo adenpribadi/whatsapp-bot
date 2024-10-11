@@ -101,9 +101,11 @@ Body:
 
 Form Data:
 
-target_number: WhatsApp number (e.g. 628123456789)
+```plaintext
+target_number: WhatsApp
+number (e.g. 628123456789)
 files: Files to be sent
-
+```
 ## Usage
 Run the bot and scan the QR code displayed in the terminal.
 After scanning, the bot will remain connected and you can start interacting with it via the API.
