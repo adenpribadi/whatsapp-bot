@@ -67,9 +67,9 @@ A simple bot built using [whatsapp-web.js](https://github.com/pedroslopez/whatsa
 ```
 
 ### 2. Send Message to Group
-URL: /sendGroup
-Method: POST
-Description: Sends a message to a WhatsApp group.
+**URL:** `/sendGroup` \
+**Method:** `POST` \
+**Description:** `Sends a message to a WhatsApp group.` 
 
 Body:
 ```json
@@ -81,9 +81,9 @@ Body:
 ```
 
 ### 3. Send Message to Number
-URL: /sendMessage
-Method: POST
-Description: Sends a message to a specific WhatsApp number.
+**URL:** `/sendMessage` \
+**Method:** `POST` \
+**Description:** `Sends a message to a specific WhatsApp number.`
 
 Body:
 ```json
@@ -95,9 +95,9 @@ Body:
 ```
 
 ### 4. Send Files to Number
-URL: /sendFiles
-Method: POST
-Description: Upload and send files to a specific WhatsApp number.
+**URL:** `/sendFiles` \
+**Method:** `POST` \
+**Description:** `Upload and send files to a specific WhatsApp number.`
 
 Form Data:
 
